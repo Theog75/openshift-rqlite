@@ -1,4 +1,4 @@
-# rqlite for Openshift /Kubernetes
+# rqlite for Openshift / Kubernetes
 
 This deployment will run a 3 cluster (or more - configurable at the number of replicas in the statefulset) of [rqlite](https://github.com/rqlite/rqlite) distributed in-memory sqlite database.
 
